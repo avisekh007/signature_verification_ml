@@ -8,4 +8,4 @@ My API Token file is kaggle.json.
 This is required to download the dataset directly into Colab working directory.
 You can also create and upload your own Kaggle API token by: https://www.kaggle.com/ > Your Profile Pic > Account > API > Create API Token
 
-[Create your new token if my token doesn't works (probably expired)]
+[Please create your new token if my token doesn't works (probably expired)]
